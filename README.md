@@ -1,4 +1,4 @@
-# Projet2 : OC-Projet 2 : Transformez votre CV en site Web
+# Projet2 : Transformez votre CV en site Web
 <img src="3.png">
 <h3>Objectif</h3>
 ● Créer son CV en ligne, en suivant un template fourni.<br>
